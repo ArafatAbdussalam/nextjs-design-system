@@ -21,7 +21,7 @@
     "@chromatic-com/storybook": "^4.0.1",
     "@storybook/addon-docs": "^9.0.12",
     "@storybook/addon-onboarding": "^9.0.12",
-    "@storybook/nextjs": "^9.0.12",
+    "@storybook/nextjs": "^9.0.18",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",

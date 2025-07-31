@@ -1,5 +1,5 @@
-import type { Meta, StoryObj } from '@storybook/react'
-import { action } from 'storybook/actions'
+import type { Meta, StoryObj } from '@storybook/nextjs'
+// import { action } from 'storybook/actions'
 
 import Button from './Button'
 
@@ -63,9 +63,9 @@ export const Large = {
 } satisfies Story
 
 
-export const WithInteraction = {
-    args: {
-        label: 'click me',
-        onClick: action('button is clicked')
-    }
-} satisfies Story
+// export const WithInteraction = {
+//     args: {
+//         label: 'click me',
+//         onClick: action('button is clicked')
+//     }
+// } satisfies Story

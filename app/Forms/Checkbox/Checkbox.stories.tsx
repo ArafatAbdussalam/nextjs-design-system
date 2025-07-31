@@ -43,7 +43,7 @@ export const Unchecked = {
         label: 'unchecked item',
         isChecked: false,
     } 
-}
+} satisfies Story
 
 
 export const Checked = {
@@ -51,5 +51,5 @@ export const Checked = {
         label: 'checked item',
         isChecked: true,
     } 
-}
+} satisfies Story
 
